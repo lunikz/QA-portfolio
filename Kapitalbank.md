@@ -5,8 +5,8 @@
 ## Test Strategy (KapitalBank)
 
 ###  Goal
-- Ensure CapitalBank internet and mobile banking systems work correctly.
-- Main focus: accuracy of transactions, security, and performance.
+- Kapital bankın saytının ve mobil tətbiqinin funksionalliğını,yük altında necə işləyəcəyini və təhlükəsiz işləməsini test edəciyik
+- Əsas fokusumuz sistemə girişin təmin edilməsi bak əməliiyatlarının təhlükəzisliyi və şəxsi məlumatların qorunmasının təmin edilməsi 
 
 ### Scope
 
