@@ -11,8 +11,9 @@ Sənəd test prosesinin necə aparılacağını və hansı funksiyaların yoxlan
 
 * Əsas bank funksiyalarının düzgün işləməsini yoxlamaq
 * İstifadəçi məlumatlarının təhlükəsizliyini təmin etmək
+* Kartdan-karta köçürmə və ödəniş funksiyalarının düzgün işləməsini yoxlamaq
 * Kritik funksiyalarda səhvlərin qarşısını almaq
-* Sistem stabil işləyirmi onu təsdiqləmək
+
 
 
 ## 3. Test Scope
@@ -23,7 +24,6 @@ Sənəd test prosesinin necə aparılacağını və hansı funksiyaların yoxlan
 * Balansın göstərilməsi
 * Kartdan karta köçürmə prosesinin yoxlanması
 * Kommunal və mobil ödənişlərin yoxlanması
-* Hesabatların  görüntülənməsi
 * Profil məlumatlarının təzələmək
 * Logout funksiyasının yoxlanması
 
@@ -49,7 +49,7 @@ Sənəd test prosesinin necə aparılacağını və hansı funksiyaların yoxlan
 * Testlər əsasən manual testing ilə aparılacaq
 * API testləri Postman aləti ilə həll ediləcək
 * Kritik funksiyalar prioritetlə test ediləcək
-* Tapılan buglar dərhal TC kimi yazılacaq
+* Tapılan Buglar ayrıca bug report şəklində qeyd olunacaq 
 
 
 ## 6. Test Environment
