@@ -1,3 +1,9 @@
 # Hi I'm Lunikz
 
-## I'm  Junior QA Engineer
+## Qeyd: Bu sənəd tədris məqsədilə hazırlanmış nümunə Test Scenariosudur.
+
+## Junior QA Engineer
+
+
+
+### KapitalBank Test Scenarios
