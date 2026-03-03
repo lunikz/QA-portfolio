@@ -1,4 +1,4 @@
-# Hi I'm Lunikz
+# Hi I'm Yusif
 
 ## Qeyd: Bu sənəd tədris məqsədilə hazırlanmış nümunə Test Scenariosudur.
 
