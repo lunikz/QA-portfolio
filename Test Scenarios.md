@@ -1,8 +1,6 @@
-# Hi I'm Yusif
-
 ## Qeyd: Bu sənəd tədris məqsədilə hazırlanmış nümunə Test Scenariosudur.
 
-## Junior QA Engineer
+## QA Engineer
 
 ---- 
 
